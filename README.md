@@ -27,7 +27,7 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 7.3. Add your bot, which you created in 7.1, to your TG Group, as a member.
 
-### Bot Setup:
+### Setup and Run:
 
 1. Unzip cmc-sniper-bot.zip
 
@@ -72,4 +72,4 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 6. To detect more then once every 5 minutes go to start.js and change the number 5 to something else (line 9). Keep in mind that the free Coinmarketcap API will run out of requests if you check more then every 5 minutes.
 
-7. Rember that tokens buys can take up to a minute if the network is congested
+7. Rember that tokens buys can take up to a minute or more, if the network is congested
