@@ -1,8 +1,6 @@
-COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
+https://saferug.money COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 # How to use:
-
-## Donations accepted!! Just go to https://saferug.money and buy presale.
 
 ### Preparation:
 
