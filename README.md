@@ -72,4 +72,6 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 6. To detect more then once every 5 minutes go to start.js and change the number 5 to something else (line 9). Keep in mind that the free Coinmarketcap API will run out of requests if you check more then every 5 minutes.
 
-7. Rember that tokens buys can take up to a minute or more, if the network is congested
+7. Rember that tokens buys can take up to a minute or more, if the network is congested.
+
+8. Scripts get run everytime the clock reaches a full 5 minutes circle.(10:00, 10:05, 10:10, ...) 
