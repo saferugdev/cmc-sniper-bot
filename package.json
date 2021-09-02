@@ -1,0 +1,20 @@
+{
+  "name": "cmc-sniper-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@saferugdev",
+  "license": "private use only.",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ethers": "^5.4.5",
+    "fs": "^0.0.1-security",
+    "node-cron": "^3.0.0",
+    "node-fetch": "^2.6.1",
+    "ora": "^6.0.0"
+  }
+}

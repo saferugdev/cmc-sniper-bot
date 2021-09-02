@@ -1,0 +1,2 @@
+//Tokens that have been bought and won't be bought again.
+
