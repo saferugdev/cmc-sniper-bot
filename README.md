@@ -2,6 +2,8 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 # How to use:
 
+## Donations accepted!! Just go to https://saferug.money and buy presale.
+
 ### Preparation:
 
 1. Install VSCode code editor on your computer. VSCode version doesn't matter, just not a super old one.
