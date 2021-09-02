@@ -1,8 +1,8 @@
 COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
-##How to use:
+# How to use:
 
-#Preparation:
+### Preparation:
 
 1. Install VSCode code editor on your computer. VSCode version doesn't matter, just not a super old one.
 
@@ -25,7 +25,7 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 7.3. Add your bot, which you created in 7.1 to your TG Group, as a member.
 
-#Bot Setup:
+### Bot Setup:
 
 1. Unzip cmc-sniper-bot.zip
 
@@ -52,11 +52,11 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 8. The bot now buys new CMC BSC listings every 5 minutes. It will keep on running until you press ctrl+c or close VSCode. You cannot put your computer in sleepmode or shut it down, this will stop the bot.
 
-#Start bot:
+### Start bot:
 
 1. You can always start the bot by typing "node start.js" in the terminal and pressing enter. Always make sure the terminal has selected the cmc-sniper-bot folder, before executing this command.
 
-#More info:
+### More info:
 
 1. The bot detects the latest 10 listings on CMC. If you run it for the first time, it will buy all BSC tokens out of these 10. If you don't want to buy any tokens on first start, take all BSC tokens from the latest 10 CMC listings and paste their contract addresses into bought.txt.
 
@@ -64,7 +64,7 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 3. The log.txt shows you errors and what you bought at what time in a readable format.
 
-4. If you want to send these code files to other people or upload it on the internet make sure to remove your seed phrase and all API keys from the .env file first. I can't do anything if you sell the bot to other people or give it away for free. I put alot of work into this.
+4. If you want to send these code files to other people or upload it on the internet make sure to remove your seed phrase and all API keys from the .env file first. 
 
 5. Make sure you have no empty spaces before and after the values in the .env file.
 
