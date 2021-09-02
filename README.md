@@ -25,7 +25,7 @@ COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
 7.2. Create a Telegram group and add @RawDataBot as a member. Send /start into the group chat. The bot will reply data. Copy the chat id (the string starting with -) and write it down.
 
-7.3. Add your bot, which you created in 7.1 to your TG Group, as a member.
+7.3. Add your bot, which you created in 7.1, to your TG Group, as a member.
 
 ### Bot Setup:
 
