@@ -1,5 +1,7 @@
 https://saferug.money COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
 
+THIS BOT IS NOT PROVEN TO BE PROFITABLE. 
+
 # How to use:
 
 ### Preparation:
@@ -12,9 +14,9 @@ https://saferug.money COINMARKETCAP NEW BSC LISTINGS SNIPER BOT
    Mac Link: https://treehouse.github.io/installation-guides/mac/node-mac.html
    Windows Link: https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
-4. Create a free account at moralis.io. Then go to "Speedy Nodes" => "BSC Endpoints" => "WS" and write down your Mainnet WS link (the first one).
+4. Create a free account at https://moralis.io . Then go to "Speedy Nodes" => "BSC Endpoints" => "WS" and write down your Mainnet WS link (the first one).
 
-5. Create a free account at pro.coinmarketcap.com/account and write down your CMC API key.
+5. Create a free account at https://pro.coinmarketcap.com/account and write down your CMC API key.
 
 6. Create a MetaMask wallet in your browser, then write down your wallet address and seed phrase. Make sure you only have 1 address in this MetaMask wallet.
 
