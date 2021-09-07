@@ -13,8 +13,8 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 2. Open VSCode and then open the VSCode Terminal, by going to the topbar and selecting Teminal => New Terminal
 
 3. Follow the steps in one of the links below, to make sure you have node.js and npm installed.
-   Mac Link: https://treehouse.github.io/installation-guides/mac/node-mac.html
-   Windows Link: https://phoenixnap.com/kb/install-node-js-npm-on-windows
+   <br>Mac Link: https://treehouse.github.io/installation-guides/mac/node-mac.html
+   <br>Windows Link: https://phoenixnap.com/kb/install-node-js-npm-on-windows
 
 4. Create a free account at https://moralis.io . Then go to "Speedy Nodes" => "BSC Endpoints" => "WS" and write down your Mainnet WS link (the first one).
 
@@ -41,16 +41,16 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
    *you can navigate folders in terminal by using "cd .." to go out of the folder and "cd foldername" to go into folders. use "ls" to see all folders in your current location.
 
 4. Go to .env file and add your:
-   -Wallet address(line 2)
-   -Seed phrase(line 3)
-   -Moralis Mainnet WS link(line 6)
-   -WBNB_AMOUNT (The amount of WBNB you want to spent per token buy. line 13)
-   -CMC API key(line 16)
+   <br>-Wallet address(line 2)
+   <br>-Seed phrase(line 3)
+   <br>-Moralis Mainnet WS link(line 6)
+   <br>-WBNB_AMOUNT (The amount of WBNB you want to spent per token buy. line 13)
+   <br>-CMC API key(line 16)
 
 5. (If you want to get TG Notifications go to .env)
-   -Set TGACTIVE to "true" if you want Telegram notifications. Otherwise it MUST be set to "false". (line 19)
-   -Bot token(line 20)
-   -Chat id(line 21)
+   <br>-Set TGACTIVE to "true" if you want Telegram notifications. Otherwise it MUST be set to "false". (line 19)
+   <br>-Bot token(line 20)
+   <br>-Chat id(line 21)
 
 6. Make sure you have WBNB in wallet to pay for tokens and BNB to pay for transaction fees.
 
