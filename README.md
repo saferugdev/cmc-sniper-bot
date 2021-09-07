@@ -7,7 +7,6 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 
 <br>
-<br>
 ### Preparation:
 
 1. Install VSCode code editor on your computer. VSCode version doesn't matter, just not a super old one.
@@ -33,7 +32,6 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 
 
-///////////////////////////////////////////////////
 <br>
 <br>
 <br>
@@ -66,7 +64,7 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 8. The bot now buys new CMC BSC listings every 5 minutes. It will keep on running until you press ctrl+c or close VSCode. You cannot put your computer in sleepmode or shut it down, this will stop the bot.
 
 
-///////////////////////////////////////////////////
+
 <br>
 <br>
 <br>
@@ -77,7 +75,7 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 
 
-///////////////////////////////////////////////////
+
 
 <br>
 <br>
