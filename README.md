@@ -4,6 +4,10 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 # How to use:
 
+
+
+///////////////////////////////////////////////////
+
 ### Preparation:
 
 1. Install VSCode code editor on your computer. VSCode version doesn't matter, just not a super old one.
@@ -26,6 +30,10 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 7.2. Create a Telegram group and add @RawDataBot as a member. Send /start into the group chat. The bot will reply data. Copy the chat id (the string starting with -) and write it down.
 
 7.3. Add your bot, which you created in 7.1, to your TG Group, as a member and remove @RawDataBot.
+
+
+
+///////////////////////////////////////////////////
 
 ### Setup and Run:
 
@@ -57,6 +65,10 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 ### Start bot:
 
 1. You can always start the bot by typing "node start.js" in the terminal and pressing enter. Always make sure the terminal has selected the cmc-sniper-bot folder, before executing this command.
+
+
+
+///////////////////////////////////////////////////
 
 ### More info:
 
