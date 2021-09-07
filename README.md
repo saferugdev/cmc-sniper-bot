@@ -23,11 +23,11 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 6. Create a MetaMask wallet in your browser, then write down your wallet address and seed phrase. Make sure you only have 1 address in this MetaMask wallet.
 
 7. (Only if you want to get TG Notifications)
-7. 1. Message @BotFather on Telegram, go through the steps and write down the bot token.
+<br>-Message @BotFather on Telegram, go through the steps and write down the bot token.
 
-7. 2. Create a Telegram group and add @RawDataBot as a member. Send /start into the group chat. The bot will reply data. Copy the chat id (the string starting with -) and write it down.
+<br>-Create a Telegram group and add @RawDataBot as a member. Send /start into the group chat. The bot will reply data. Copy the chat id (the string starting with -) and write it down.
 
-7. 3. Add your bot, which you created in 7.1, to your TG Group, as a member and remove @RawDataBot.
+<br>-Add your bot, which you created in 7.1, to your TG Group, as a member and remove @RawDataBot.
 
 <br>
 
