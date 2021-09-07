@@ -4,9 +4,8 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 # How to use:
 
-
-
 <br>
+
 ### Preparation:
 
 1. Install VSCode code editor on your computer. VSCode version doesn't matter, just not a super old one.
@@ -29,9 +28,6 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 7.2. Create a Telegram group and add @RawDataBot as a member. Send /start into the group chat. The bot will reply data. Copy the chat id (the string starting with -) and write it down.
 
 7.3. Add your bot, which you created in 7.1, to your TG Group, as a member and remove @RawDataBot.
-
-
-
 
 <br>
 
@@ -62,23 +58,14 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 8. The bot now buys new CMC BSC listings every 5 minutes. It will keep on running until you press ctrl+c or close VSCode. You cannot put your computer in sleepmode or shut it down, this will stop the bot.
 
-
-
-<br>
-<br>
 <br>
 
 ### Start bot:
 
 1. You can always start the bot by typing "node start.js" in the terminal and pressing enter. Always make sure the terminal has selected the cmc-sniper-bot folder, before executing this command.
 
-
-
-
-
 <br>
-<br>
-<br>
+
 ### More info:
 
 1. The bot detects the latest 10 listings on CMC. If you run it for the first time, it will buy all BSC tokens out of these 10. If you don't want to buy any tokens on first start, take all BSC tokens from the latest 10 CMC listings and paste their contract addresses into bought.txt.
