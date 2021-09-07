@@ -76,7 +76,7 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 5. Make sure you have no empty spaces before and after the values in the .env file.
 
-6. To detect more then once every 5 minutes go to start.js and change the number 5 to something else (line 9). Keep in mind that the free Coinmarketcap API will run out of requests if you check more then every 5 minutes.
+6. To detect more then every 5 minutes go to start.js and change the number 5 to something else (line 9). Keep in mind that the free Coinmarketcap API will run out of requests if you check more then every 5 minutes.
 
 7. Rember that tokens buys can take up to a minute or more, if the network is congested.
 
