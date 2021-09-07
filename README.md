@@ -32,8 +32,7 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 
 
-<br>
-<br>
+
 <br>
 
 ### Setup and Run:
