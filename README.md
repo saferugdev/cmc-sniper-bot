@@ -6,9 +6,6 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 
 
 
-///////////////////////////////////////////////////
-
-<br>
 <br>
 <br>
 ### Preparation:
