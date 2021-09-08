@@ -81,3 +81,6 @@ THIS BOT IS NOT PROVEN TO BE PROFITABLE.
 7. Rember that tokens buys can take up to a minute or more, if the network is congested.
 
 8. Scripts get run everytime the clock reaches a full 5 minutes circle.(10:00, 10:05, 10:10, ...) 
+
+9. Kill node.js processes on your system like this:
+<br>- ![Screenshot 2021-09-08 at 03 07 31](https://user-images.githubusercontent.com/82689590/132429450-d5ae04ef-3bed-4819-9aad-2251aaf025a5.png)
